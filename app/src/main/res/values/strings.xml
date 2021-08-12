@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Activity2</string>
+    <string name="nome">Nome</string>
+    <string name="nome_mensagem">"Nome: "</string>
+    <string name="possui_carro">Possui carro</string>
+    <string name="aluno">Aluno</string>
+    <string name="professor">Professor</string>
+    <string name="enviar_sem_nota">Enviar sem Nota</string>
+    <string name="nao_cadastrado">não cadastrado</string>
+    <string name="nenhum_tipo_selecionado">Nem um tipo foi selecionado</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="dados_cadastrado">Dados Cadastrado</string>
+    <string name="enviar_com_nota">Enviar com Nota</string>
+</resources>
